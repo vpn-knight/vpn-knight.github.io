@@ -1,7 +1,7 @@
 ---
-title: Nekoray. Сразу после перезагрузки нет интернета
-categories: [Техподдержка, NekoRay]
-tags: [техподдержка, техническое, nekoray]     # TAG names should always be lowercase
+title: Сразу после перезагрузки нет интернета
+categories: [Техподдержка, Общее]
+tags: [техподдержка, техническое, nekoray, hiddify]     # TAG names should always be lowercase
 description: Данная проблема может возинкнуть и на других клиентах.
 ---
 

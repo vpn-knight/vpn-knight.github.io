@@ -1,6 +1,6 @@
 ---
 title: V2BOX - установка и использование
-categories: [Техподдержка, V2BOX]
+categories: [Начало, Программы]
 tags: [техподдержка, техническое, v2box]     # TAG names should always be lowercase
 pin: false
 description: Список рекомендуемых приложений для стабильного или максимально кастомизированного опыта.

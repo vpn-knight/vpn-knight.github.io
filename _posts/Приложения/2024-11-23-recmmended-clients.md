@@ -9,7 +9,6 @@ description: Список рекомендуемых приложений для
 > Не бойтесь пробовать разные приложения!
 {: .prompt-tip }
 
-
 ## NekoRay
 
 ![nekoray_desktop](/assets/nekoray_desktop.webp){: .right .top w="500"}

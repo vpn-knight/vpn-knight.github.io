@@ -1,6 +1,6 @@
 ---
 title: Hiddify - установка и использование
-categories: [Техподдержка, Hiddify]
+categories: [Начало, Программы]
 tags: [техподдержка, техническое, hiddify]     # TAG names should always be lowercase
 pin: false
 description: Список рекомендуемых приложений для стабильного или максимально кастомизированного опыта.
