@@ -9,6 +9,9 @@ description: Список рекомендуемых приложений для
 > Не бойтесь пробовать разные приложения!
 {: .prompt-tip }
 
+> НЕ ПОДДЕРЖИВАЕТ ЯДРО XRAY ПОСЛЕ ВЕРСИИ 3.26
+{: .prompt-danger }
+
 ## Скачивание
 
 Скачать и установить из официального [репозитория](https://github.com/MatsuriDayo/nekoray/releases).
@@ -20,7 +23,6 @@ description: Список рекомендуемых приложений для
 |Файл|Для чего|
 |------|------|
 |debian-x64.deb|Ubuntu, Mint, Debian|
-|linux-x64.AppImage|Без понятия|
 |linux64.zip|Linux (портативная)|
 |windows64.zip|Windows (портативная)|
 
